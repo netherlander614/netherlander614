@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aaditya Ghimire</h1>
-<h3 align="center">A passionate part-time full stack developer from VA</h3>
+<h3 align="center">Your typical part-time coder</h3>
 
 - 📫 How to reach me **aadityanepali@gmail.com**
 
