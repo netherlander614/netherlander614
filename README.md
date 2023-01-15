@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aaditya Ghimire</h1>
-<h3 align="center">A passionate learner A</h3>
+<h3 align="center">A passionate learner</h3>
 
 - 📫 How to reach me **aadityanepali@gmail.com**
 
