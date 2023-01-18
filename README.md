@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aaditya Ghimire</h1>
 <h3 align="center">A passionate learner</h3>
 
-- 📫 How to reach me **aadityanepali@gmail.com**
+- 📫 How to reach me: Message me on [Linkedin](https://linkedin.com/in/aaditya-ghimire-6b3a49211/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
