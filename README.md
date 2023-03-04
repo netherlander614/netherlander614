@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Aaditya Ghimire</h1>
 <h3 align="center">A passionate learner</h3>
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1708816/screenshots/15637256/media/f9826f0af8a49462f048262a8502035b.gif">
 
 - 📫 How to reach me: Message me on [Linkedin](https://linkedin.com/in/aaditya-ghimire-6b3a49211/)
 
